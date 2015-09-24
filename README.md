@@ -4,4 +4,4 @@
 - Users can analyze what sort of emails they receive
 
 
-- Added interactive graphs analyzing subject lines in Gmails using  GGPLOT in R and D3.js
+- Added interactive graphs analyzing subject lines in Gmails using  GGPLOT2 in R and D3.js
