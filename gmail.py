@@ -79,7 +79,7 @@ class account:
 
     def filter(self, search_string):
         '''
-        This function provides gmail style search.
+        This function provides gmail style search
 
         @type search_string: string
         @param search_string: GMail style search string
